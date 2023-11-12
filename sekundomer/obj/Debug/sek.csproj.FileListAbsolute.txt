@@ -1,0 +1,16 @@
+D:\c##\Культин. Visual C#\Тексты программ\sek\sek\bin\Debug\sek.exe
+D:\c##\Культин. Visual C#\Тексты программ\sek\sek\bin\Debug\sek.pdb
+D:\c##\Культин. Visual C#\Тексты программ\sek\sek\obj\Debug\sek.csprojResolveAssemblyReference.cache
+D:\c##\Культин. Visual C#\Тексты программ\sek\sek\obj\Debug\sek.Form1.resources
+D:\c##\Культин. Visual C#\Тексты программ\sek\sek\obj\Debug\sek.Properties.Resources.resources
+D:\c##\Культин. Visual C#\Тексты программ\sek\sek\obj\Debug\sek.csproj.GenerateResource.Cache
+D:\c##\Культин. Visual C#\Тексты программ\sek\sek\obj\Debug\sek.exe
+D:\c##\Культин. Visual C#\Тексты программ\sek\sek\obj\Debug\sek.pdb
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sek.exe
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sek.pdb
+C:\myC#2.0\myC#\sek\sek\bin\Debug\sek.exe
+C:\myC#2.0\myC#\sek\sek\bin\Debug\sek.pdb
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sek.csprojResolveAssemblyReference.cache
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sek.Form1.resources
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sek.Properties.Resources.resources
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sek.csproj.GenerateResource.Cache

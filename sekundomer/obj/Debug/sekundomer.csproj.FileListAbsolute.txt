@@ -1,0 +1,10 @@
+C:\myC#2.0\myC#\sek\sek\bin\Debug\sekundomer.exe
+C:\myC#2.0\myC#\sek\sek\bin\Debug\sekundomer.pdb
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sekundomer.csprojResolveAssemblyReference.cache
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sekundomer.Form1.resources
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sekundomer.Properties.Resources.resources
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sekundomer.csproj.GenerateResource.Cache
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sekundomer.exe
+C:\myC#2.0\myC#\sek\sek\obj\Debug\sekundomer.pdb
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\sekundomer\obj\Debug\sekundomer.exe
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\sekundomer\obj\Debug\sekundomer.pdb
